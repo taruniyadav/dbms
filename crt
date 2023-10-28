@@ -1,0 +1,3 @@
+create table cars ;
+update cars;
+drop table;
